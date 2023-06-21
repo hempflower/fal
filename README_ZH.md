@@ -2,9 +2,7 @@
 
 中文页 | [英文页](./README.md)
 
-### 从RT-Thread v4.1.0版本开始，FAL作为内部组件移到了系统内部，请移至：https://github.com/RT-Thread/rt-thread/tree/master/components/fal
-
-**此存储库不再维护。**
+由于官方不再独立维护此组件，因此创建此 fork 进行维护。
 
 ## 1、FAL介绍
 
