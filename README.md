@@ -1,6 +1,3 @@
-# Attention
-## ⚠️ This repository is no longer maintained any more. Please move to: https://github.com/RT-Thread/rt-thread/tree/master/components/fal
-
 # FAL：Flash Abstraction Layer
 
 [Chinese](./README_ZH.md) | English
